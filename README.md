@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/JXSan/jxsan/assets/9119543/e913eda4-db83-4541-a272-49eb38deec0f" alt="Alt Text">
+</div>
+
 <h1 align="center">Hi 👋, I'm Jonathan Sanchez</h1>
 <h3 align="center">A passionate full stack engineer from Oregon 🌲</h3>
 
